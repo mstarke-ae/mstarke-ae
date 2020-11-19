@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Starke</h1>
 <h3 align="center">A rising developer from Germany.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=mstarke-ae" alt="mstarke-ae" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
