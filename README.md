@@ -23,7 +23,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/css3.svg" alt="css3" height="30" width="40" />
     </a>
-    <a href="https://www.w3schools.com/css/js" target="_blank">
+    <a href="https://www.w3schools.com/js" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/javascript.svg" alt="javascript" height="30" width="40" />
     </a>
     <a href="https://www.python.org" target="_blank">
