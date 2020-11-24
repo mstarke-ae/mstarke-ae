@@ -30,7 +30,21 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg" alt="python" height="30" width="40" />
     </a>
 </p>
-<p>
+<p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/visualstudiocode.svg" alt="vsc" height="30" width="40" />
+    </a>
+    <a href="https://www.raspberrypi.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/raspberrypi.svg" alt="raspberrypi" height="30" width="40" />
+    </a>
+    <a href="https://www.vmware.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/vmware.svg" alt="vmware" height="30" width="40" />
+    </a>
+</p>
+<p align="left">
+    <a href="https://www.microsoft.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/windows.svg" alt="windows" height="30" width="40" />
+    </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linux.svg" alt="linux" height="30" width="40" />
     </a>
@@ -40,16 +54,8 @@
     <a href="https://www.debian.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/debian.svg" alt="debian" height="30" width="40" />
     </a>
-    <a href="https://www.microsoft.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/windows.svg" alt="windows" height="30" width="40" />
-    </a>
     <a href="https://www.android.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/android.svg" alt="android" height="30" width="40" />
     </a>
-    <a href="https://www.raspberrypi.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/raspberrypi.svg" alt="raspberrypi" height="30" width="40" />
-    </a>
-    <a href="https://www.vmware.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/vmware.svg" alt="vmware" height="30" width="40" />
-    </a>
+
 </p>
