@@ -45,9 +45,6 @@
     <a href="https://www.microsoft.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/windows.svg" alt="windows" height="30" width="40" />
     </a>
-    <a href="https://www.linux.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/linux.svg" alt="linux" height="30" width="40" />
-    </a>
     <a href="https://ubuntu.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/ubuntu.svg" alt="ubuntu" height="30" width="40" />
     </a>
