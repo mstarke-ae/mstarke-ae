@@ -1,4 +1,4 @@
-<h1 align="center">Hi :mask:, I'm M.Starke</h1>
+<h1 align="center">I'm M.Starke :mask:</h1>
 <h3 align="center">A rising developer from Germany.</h3>
 
 <h3 align="left">Connect with me:</h3>
