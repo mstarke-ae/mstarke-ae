@@ -16,7 +16,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+<p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg" alt="python" height="30" width="40" />
+    </a>
     <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/html5.svg" alt="html5" height="30" width="40" />
     </a>
@@ -25,9 +28,6 @@
     </a>
     <a href="https://www.w3schools.com/js" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/javascript.svg" alt="javascript" height="30" width="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/python.svg" alt="python" height="30" width="40" />
     </a>
 </p>
 <p align="left">
