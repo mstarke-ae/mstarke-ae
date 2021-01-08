@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <div style="border-radius:.5em;background:white;border:2em">
     <a href="https://linkedin.com/in/mstarke-ae" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/linkedin.svg" alt="mstarke-ae" height="30" width="40" />
     </a>
@@ -12,13 +13,14 @@
     <a href="https://discord.gg/JgbAXvS" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/discord.svg" alt="mstarke-ae" height="30" width="40" />
     </a>
+    </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
     <a href="https://www.python.org" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/python.svg" alt="python" height="30" width="40" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/python.svg" alt="python" height="30" width="40" style="border:5px solid #FFFFFF" />
     </a>
         <a href="https://www.w3schools.com/js" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/javascript.svg" alt="javascript" height="30" width="40" />
