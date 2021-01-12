@@ -5,7 +5,7 @@
 <p align="left">
     <div style="border-radius:.5em;background:white;border:2em">
     <a href="https://linkedin.com/in/mstarke-ae" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/linkedin.svg" alt="mstarke-ae" height="30" width="40" />
+        <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/test.png" alt="mstarke-ae" height="40" width="40" />
     </a>
     <a href="mailto:mstarke@bbw-fi.de" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/microsoftoutlook.svg" alt="mstarke-ae" height="30" width="40" />
