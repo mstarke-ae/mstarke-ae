@@ -1,19 +1,16 @@
 <h1 align="center">I'm M.Starke :mask:</h1>
 <h3 align="center">A rising developer from Germany.</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <div style="border-radius:.5em;background:white;border:2em">
-    <a href="https://linkedin.com/in/mstarke-ae" target="blank">
-        <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/test.png" alt="mstarke-ae" height="40" width="40" />
-    </a>
     <a href="mailto:mstarke@bbw-fi.de" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/microsoftoutlook.svg" alt="mstarke-ae" height="30" width="40" />
+        <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/outlook.png" alt="outlook" height="50" />
+    </a>
+    <a href="https://linkedin.com/in/mstarke-ae" target="blank">
+        <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/linkedin.png" alt="linkedin" height="50" />
     </a>
     <a href="https://discord.gg/JgbAXvS" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/discord.svg" alt="mstarke-ae" height="30" width="40" />
+        <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/discord.png" alt="discord" height="50" />
     </a>
-    </div>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
