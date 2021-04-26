@@ -14,10 +14,13 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.python.org" target="_blank">
+    <a href="https://www.python.org/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/python.png" alt="python" height="35"/>
     </a>
-        <a href="https://www.w3schools.com/js" target="_blank">
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/nodejs.png" alt="nodejs" height="35"/>
+    </a>
+    <a href="https://www.w3schools.com/js" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/javascript.png" alt="javascript" height="35"/>
     </a>
     <a href="https://www.w3schools.com/html/" target="_blank">
@@ -31,6 +34,9 @@
     </a>
 </p>
 <p align="left">
+    <a href="https://www.docker.com/" target="_blank">
+        <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/docker.png" alt="docker" height="35"/>
+    </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/pycharm.png" alt="vsc" height="35"/>
     </a>
