@@ -41,12 +41,15 @@
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/docker.png" alt="docker" height="35"/>
     </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-        <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/pycharm.png" alt="vsc" height="35"/>
+        <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/pycharm.png" alt="pycharm" height="35"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/visualstudiocode.png" alt="vsc" height="35"/>
     </a>
-        <a href="https://www.virtualbox.org/" target="_blank">
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/intellij.png" alt="intellij" height="35"/>
+    </a>
+    <a href="https://www.virtualbox.org/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/virtualbox.png" alt="virtualbox" height="35"/>
     </a>
     <a href="https://www.raspberrypi.org/" target="_blank">
