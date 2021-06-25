@@ -20,8 +20,11 @@
     <a href="https://nodejs.org/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/nodejs.png" alt="nodejs" height="35"/>
     </a>
-    <a href="https://www.w3schools.com/js" target="_blank">
+    <a href="https://www.w3schools.com/js/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/javascript.png" alt="javascript" height="35"/>
+    </a>
+    <a href="https://www.w3schools.com/java/" target="_blank">
+        <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/java.png" alt="java" height="35"/>
     </a>
     <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/html.png" alt="html5" height="35"/>
@@ -29,7 +32,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/css.png" alt="css3" height="35"/>
     </a>
-    <a href="https://www.w3schools.com/php" target="_blank">
+    <a href="https://www.w3schools.com/php/" target="_blank">
         <img src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/php.png" alt="javascript" height="35"/>
     </a>
 </p>
