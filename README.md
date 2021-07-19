@@ -5,12 +5,6 @@
     <a href="mailto:mstarke@bbw-fi.de" target="blank">
         <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/outlook.png" alt="outlook" height="35"/>
     </a>
-    <a href="https://linkedin.com/in/mstarke-ae" target="blank">
-        <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/linkedin.png" alt="linkedin" height="35"/>
-    </a>
-    <a href="https://discord.gg/JgbAXvS" target="blank">
-        <img align="center" src="https://github.com/mstarke-ae/mstarke-ae/blob/main/images/discord.png" alt="discord" height="35"/>
-    </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
